@@ -35,4 +35,4 @@ SQL (DDL, DML, DQL, CTEs, Window Functions)
 
 ✍️ Author
 
-Shreyash Sunil Pawa
+Shreyash Sunil Pawar
